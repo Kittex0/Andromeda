@@ -1,5 +1,3 @@
-# Andromeda
-A simple A.I chatbot
 # Requirements
 You need to have python installed to install go to https://python.org/downloads and then download the latest version, know I made this repository in the version 3.9 so if there are any future versions there might become a problem. But if there is then just leave it in the issues tab and I will see if I can fix or maybe other contributers!
 
